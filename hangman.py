@@ -19,7 +19,7 @@ player_guess_list = []
 player_guesses = []
 play_game = True
 category = ""
-continue_game = "Y"
+
 
 #Comienza el juego: se adivina la palabra
 time.sleep(3)
