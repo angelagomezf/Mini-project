@@ -1,2 +1,2 @@
-# Mini-project
+# mini-project
 mini-project game hangman
